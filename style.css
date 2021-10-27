@@ -1,0 +1,228 @@
+body{
+    margin-top: 60px;
+    background-color:rgb(235, 240, 240);
+    
+}
+
+form{
+    width:500px;
+    height: 780px;
+    background-color:white;
+    color:white;
+    margin:auto;
+    
+    
+    
+}
+
+.cross-icon{
+    
+    color:#353636;
+    margin: 460px;
+    
+
+}
+.headding{
+    color:#000000;
+    font-size: xx-large;
+    margin:20px;
+
+}
+
+.avtar{
+    height: 100px;
+    width: 100px;
+    
+}
+
+.avtar_label{
+    position: relative;
+    right:80px;
+    top: 20px;
+    font-size: 16px;
+    color: rgb(68, 63, 63);
+}
+.name-input{
+    margin-left: 20px;
+    margin-top: 10px;
+    border-bottom:1px solid rgb(212, 203, 203) ;
+    padding-top:10px ;
+    padding-bottom: 5px;
+
+}
+.name-input input{
+    border: none;
+    outline: none;
+    background: transparent;
+    
+}
+.FirstName{
+    font-size:14px;
+}
+.firstname-icon{
+    color:red;
+}
+
+.LastName{
+    font-size:14px;
+    margin-left: 50px;
+}
+
+.phone-input{
+    margin-left: 20px;
+    margin-top: 10px;
+    border-bottom:1px solid rgb(212, 203, 203) ;
+    padding-top:10px ;
+    padding-bottom: 5px;
+
+}
+.phone-input input{
+    border: none;
+    outline: none;
+    background: transparent;
+}
+
+.india{
+    width:30px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top:30px ;
+}
+.option{
+    margin-left: -2px;
+    height: 25px;
+    margin-top:30px ;
+    left:210px;
+    border-radius:4px;
+    font-size:16px;
+}
+.phone{
+    width: 365px;
+    margin-left: -3px;
+    margin-top:30px ;
+    left:210px;
+    top:-37px;
+    line-height:20px;
+    border-radius:4px;
+    font-size:16px;
+}
+.email-input{
+    margin-left: 20px;
+    margin-top: 10px;
+    border-bottom:1px solid rgb(212, 203, 203) ;
+    padding-top:10px ;
+    padding-bottom: 5px;
+}
+.email-input input{
+    border: none;
+    outline: none;
+    background: transparent;
+    
+}
+.email{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.email_{
+    font-size: 14px;
+    margin-left:50px;
+}
+.email_icon{
+    position:absolute;
+    margin-top: 20px;
+    color:#6EB67E;
+    margin-left: 25px;
+}
+.pass_input{
+    margin-left: 20px;
+    margin-top: 10px;
+    border-bottom:1px solid rgb(212, 203, 203) ;
+    padding-top:10px ;
+    padding-bottom: 5px;
+
+}
+.pass_input input{
+    border: none;
+    outline: none;
+    background: transparent;
+    margin-top: 10px;
+}
+.password1{
+    font-size: 14px;
+}
+.password2{
+    font-size: 14px;
+    margin-left: 20px;
+}
+.password_icon{
+    margin-left: 10px;
+    color: rgb(82, 79, 79);
+
+}
+.birth_input{
+    margin-left: 20px;
+    margin-top: 10px;
+    border-bottom:1px solid rgb(212, 203, 203) ;
+    padding-top:10px ;
+    padding-bottom: 5px;
+}
+.birth_input input{
+    border: none;
+    outline: none;
+    background: transparent;
+    margin-top: 10px;
+}
+.birth{
+    font-size: 14px;
+}
+.birth_calander{
+    color:rgb(82, 79, 79)
+}
+.referral-code{
+    font-size: 14px;
+    margin-left: 40px;
+}
+
+
+.gender{
+    font-size:16px;
+    
+    color: #424141;
+    margin-left: 30px;
+
+}
+#yes{
+    color:#df3a71;
+    margin-left: 20px;
+    font-size:16px;
+
+}
+.policy{
+    color: #000000;
+    margin-left: 10px;
+    font-size:16px;
+
+}
+.p_color{
+    color:#df3a71;
+}
+
+.p2_color{
+    color:#df3a71;
+    margin-left:20ex;
+    
+}
+
+
+.final{
+
+    background-color:#df3a71;
+    width:440px;
+    height:40px;
+    font-size:14px;
+    margin-left:2px;
+    color:white;
+    padding:10px 10px 10px 10px;
+    border-radius:20px 20px 20px 20px;
+    margin-top: 30px;
+}
